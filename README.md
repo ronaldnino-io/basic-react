@@ -1,3 +1,3 @@
-# react-nvyppe
+# Estructura básica de un proyecto usando ReactJs
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-nvyppe)
+Dando mis primero paso con ReactJs
